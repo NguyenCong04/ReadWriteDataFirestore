@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717524561883",
+    "project_id": "lab1-6feb5",
+    "storage_bucket": "lab1-6feb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717524561883:android:f68e08d34997f708d181fe",
+        "android_client_info": {
+          "package_name": "congntph34559.fpoly.lab1readwritedatabaseapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABlG5pr95sVhzQMqvDiyGUKQcZfrcw-pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
